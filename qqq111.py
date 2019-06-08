@@ -1,6 +1,6 @@
 string=input()
 substring=""
-a=0
+a1=0
 op=[]
 if string==string[::-1]:
   op.append(0)
